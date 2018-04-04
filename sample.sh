@@ -23,10 +23,6 @@ echo -e "$TITLESPACE\n$TITLESPACE"
 echo "************************************************************************"
 echo -e "\n\n"
 
-#echo hazard to your \
-#    booty
-
-#
 echo "Number of arguments (n-1): $#"
 if [ $# != 6 ]; then
 	usage
